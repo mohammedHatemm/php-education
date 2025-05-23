@@ -48,8 +48,13 @@
 
 
 
-$str = '123  4567';
+// $str = '123  4567';
 
-$pattern  = '/[a-zA-Z]/';
+// $pattern  = '/[a-zA-Z]/';
 
-echo preg_match($pattern, $str);
+// echo preg_match( $pattern, $str); //-> بترجع true او faluse
+
+//    /\b جمله/
+
+
+// preg_split( )
