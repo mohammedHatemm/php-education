@@ -3,4 +3,4 @@
 
 // echo ->
 
-// print ->(ممكن تتخزن في variable ) (بترحع true او false )
+// print ->(ممكن تتخزن في variable ) (بترحع true او false ) (ممكت تشتغل ب )()
